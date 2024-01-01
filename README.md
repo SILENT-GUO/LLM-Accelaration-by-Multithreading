@@ -1,5 +1,6 @@
 # LLM-Accelaration-by-Multithreading
 Author: Guo Zebin
+
 This project accelerate LLM inferencing by using multi-threading in matrix-vector multiplications when using transformer.
 This is the second programming assignment of HKU COMP3230 course.
 
